@@ -1,0 +1,9 @@
+const ActionTypes = {
+  ADD_ITEM: 'ADD_ITEM',
+  MARK_ITEM_IMPORTANT: 'MARK_ITEM_IMPORTANT',
+  DELETE_ITEM: 'DELETE_ITEM',
+  COMPLETE_ITEM: 'COMPLETE_ITEM',
+  SEARCH_ITEM: 'SEARCH_ITEM'
+};
+
+export default ActionTypes;
